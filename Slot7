@@ -6,7 +6,7 @@ CONFIG = {
      }, 
      Farm_setting = { 
          farm_world = { 
-             “Lgpft”,“Yboqp”,“Jmrni”,“Esclq”,“Xtasq”,“Ccduv”,“Ttdnd”,“Hfqwk”,“Hfqwj”,“Jdlxk”,“Qpnqm”,“Ygkst”,“Gxxwz”,“Naicp”,“Jiuwjybkhgv”}, 
+             "Lgpft","Yboqp","Jmrni","Esclq","Xtasq","Ccduv","Ttdnd","Hfqwk","Hfqwj","jdlxk","Qpnqm","Ygkst","Gxxwz","Naicp","Jiuwjybkhgv"}, 
          farm_world_id = "DJarum76", 
          delay_harvest = 200, 
          delay_plant = 200 

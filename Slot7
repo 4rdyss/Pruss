@@ -31,7 +31,7 @@ CONFIG = {
      }, 
      Other_setting = { 
          repeat_world = false, 
-         url_webhook = "https://discord.com/api/webhooks/1051844277157777499/g-WtEpvJaPWlc9PsoWD_W7Ztf0M2IV7RSglyk7qxbHwdjGKlz60vfSeiYfLyfhnwvr1d", 
+         url_webhook = "https://discord.com/api/webhooks/1051984249571516486/h7ibRyD5LnA-N_mCd0G0eNWadX5ICXKwhWAeAfxk-00EawMsxIPYZDEJYMrP5GFC2Rix", 
          short_webhook = true, 
          disable_webhook = false 
      }, 
